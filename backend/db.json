@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Felipe Paneque",
+      "email": "paneque.malta@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "procuroEmprego",
+      "email": "malta.paneque@gmail.com",
+      "id": 2
+    }
+  ]
+}
